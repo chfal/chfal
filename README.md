@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chfal (Cleo)
 - 👀 I’m interested in herpetology, genomics, and open source statistical software
-- 🌱 I’m currently a PhD. student in Computational and Integrative Biology
+- 🌱 I’m currently a PhD. Candidate at Rutgers, studying Computational and Integrative Biology
 
 <!---
 chfal/chfal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
